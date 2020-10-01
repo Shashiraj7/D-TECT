@@ -1,4 +1,4 @@
-# D-TECT
+# D-TECT LIKE A BOSS
 D-TECT - Pentest the Modern Web
 
 Author: [Shawar Khan] (https://shawarkhan.com/about/)
